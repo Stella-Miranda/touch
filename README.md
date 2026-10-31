@@ -1,4 +1,4 @@
-# Touch (AI-Powered Painting Guide for Visually Impaired Children)
+# Touch (AI-Powered Arts Guide for Visually Impaired Children)
 
 An assistive mobile application built with Flutter that uses Artificial Intelligence to help visually impaired children explore and understand paintings by detecting where their hand is pointing and providing detailed audio/text descriptions of those specific areas.
 
